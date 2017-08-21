@@ -72,3 +72,12 @@
 2. **BOM(browerobject model 浏览器对象模型)。** 描述了与浏览器进行交互的方法和接口。BOM提供了独立于内容而与浏览器窗口进行交互的对象，例如可以移动，调整浏览器大小的window对象，可以用于导航的location对象与history对象，可以获取浏览器，操作系统与用户屏幕信息的navigator与screen对象，可以使用document作为访问HTML文档的入口，管理框架的frames对象等。
 3. **DOM(document object model 文档对象模型)。** 通过 DOM，可以访问所有的 HTML 元素，连同它们所包含的文本和属性，可以对其中的内容进行修改和删除，同时也可以创建新的元素。
 
+## 六、常用的开发工具
+
+1. **Sublime**  
+
+2. HBuilder  ide  集成开发环境  免费 不难用
+
+3. **WebStrom**   用的最多  idea基础  收费
+
+   ​
