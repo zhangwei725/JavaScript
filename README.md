@@ -39,7 +39,8 @@
 2. 支持编译运行
 
    ```
-   JavaScript语言本身，虽然是一种解释型语言，但是在现代浏览器中，JavaScript都是编译后运行。程序会被高度优化，运行效率接近二进制程序。而且，JavaScript引擎正在快速发展，性能将越来越好。
+   JavaScript语言本身，虽然是一种解释型语言，但是在现代浏览器中，JavaScript都是编译后运行。
+   程序会被高度优化，运行效率接近二进制程序。而且，JavaScript引擎正在快速发展，性能将越来越好。
    ```
 
 3. 事件驱动和非阻塞式设计
@@ -73,13 +74,18 @@
 3. 数据库操作
 
    ```
-   JavaScript甚至也可以用来操作数据库。NoSQL数据库这个概念，本身就是在JSON（JavaScript Object Notation，JavaScript对象表示法）格式的基础上诞生的，大部分NoSQL数据库允许JavaScript直接操作。基于SQL语言的开源数据库PostgreSQL支持JavaScript作为操作语言，可以部分取代SQL查询语言
+   JavaScript甚至也可以用来操作数据库。NoSQL数据库这个概念，
+   本身就是在JSON（JavaScript Object Notation，JavaScript对象表示法）格式的基础上诞生的，
+   大部分NoSQL数据库允许JavaScript直接操作。基于SQL语言的开源数据库PostgreSQL支持JavaScript作为操作语言，
+   可以部分取代SQL查询语言
    ```
 
 4. 跨移动平台
 
    ```
-   PhoneGap项目就是将JavaScript和HTML5打包在一个容器之中，使得它能同时在iOS和安卓上运行。Facebook的React Native项目则是将JavaScript写的组件，编译成原生组件，从而使它们具备优秀的性能。Mozilla基金会的手机操作系统Firefox OS，更是直接将JavaScript作为操作系统的平台语言。
+   PhoneGap项目就是将JavaScript和HTML5打包在一个容器之中，使得它能同时在iOS和安卓上运行。
+   Facebook的React Native项目则是将JavaScript写的组件，编译成原生组件，从而使它们具备优秀的性能。
+   Mozilla基金会的手机操作系统Firefox OS，更是直接将JavaScript作为操作系统的平台语言。
    ```
 
 5. 内嵌脚本语言
@@ -91,7 +97,9 @@
 6. 跨平台的桌面应用程序
 
    ```
-   Chromium OS、Windows 8等操作系统直接支持JavaScript编写应用程序。Mozilla的Open Web Apps项目、Google的Chrome App项目、Github的Electron项目、以及TideSDK项目，都可以用来编写运行于Windows、Mac OS和Android等多个桌面平台的程序，不依赖浏览器
+   Chromium OS、Windows 8等操作系统直接支持JavaScript编写应用程序。
+   Mozilla的Open Web Apps项目、Google的Chrome App项目、Github的Electron项目、以及TideSDK项目，
+   都可以用来编写运行于Windows、Mac OS和Android等多个桌面平台的程序，不依赖浏览器
    ```
 
 ## 四、JavaScript与ES的关系
