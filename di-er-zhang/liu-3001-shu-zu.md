@@ -79,7 +79,7 @@
    var array = new Array(size);
    ```
 
-1. 指定元素数组
+3. 指定元素数组
 
    ```
    var array = new Array(元素1,元素2,....元素N);
@@ -205,7 +205,7 @@
 
 ## 五、数组检测
 
-如何检测一个对象是不是一个Array
+    如何检测一个对象是不是一个Array
 
 1. 使用instanceof运算符。
 2. 使用Array.isArray\(arr\) 方法。 
