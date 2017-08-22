@@ -197,15 +197,13 @@
    在实际开发中我们可能希望删除中间一个元素后，后面元素的index都自动减一，数组length同时减一
    ```
 
-   ​
-
 ## 四、常用方法\(移步官方文档\)
 
 [官方文档](http://www.w3school.com.cn/jsref/jsref_obj_array.asp)
 
 ## 五、数组检测
 
-​	如何检测一个对象是不是一个Array
+​    如何检测一个对象是不是一个Array
 
 1. 使用instanceof运算符。
 2. 使用Array.isArray\(arr\) 方法。 
