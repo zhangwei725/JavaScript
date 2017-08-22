@@ -7,5 +7,6 @@
   * [三、表达式和运算符](di-yi-zhang/san-3001-biao-da-shi-he-yun-suan-fu.md)
   * [四、流程控制](di-yi-zhang/si-3001-liu-cheng-kong-zhi.md)
 * [第二章](di-er-zhang.md)
+  * [五、函数](di-er-zhang/wu-3001-han-shu.md)
 * 第三章
 
