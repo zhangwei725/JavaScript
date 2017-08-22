@@ -8,5 +8,6 @@
   * [四、流程控制](di-yi-zhang/si-3001-liu-cheng-kong-zhi.md)
 * [第二章](di-er-zhang.md)
   * [五、函数](di-er-zhang/wu-3001-han-shu.md)
+  * 六、数组
 * 第三章
 
