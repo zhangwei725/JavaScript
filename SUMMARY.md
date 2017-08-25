@@ -9,5 +9,6 @@
 * [第二章](di-er-zhang.md)
   * [五、函数](di-er-zhang/wu-3001-han-shu.md)
   * [六、数组](di-er-zhang/liu-3001-shu-zu.md)
-* 第三章
+* [第三章](di-san-zhang.md)
+  * 八、DOM
 
