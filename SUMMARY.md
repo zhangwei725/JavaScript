@@ -10,5 +10,6 @@
   * [五、函数](di-er-zhang/wu-3001-han-shu.md)
   * [六、数组](di-er-zhang/liu-3001-shu-zu.md)
 * [第三章](di-san-zhang.md)
-  * 八、DOM
+  * [八、DOM](di-san-zhang/ba-3001-dom.md)
+  * [九、BOM操作](di-san-zhang/jiu-3001-bom-cao-zuo.md)
 
