@@ -1,6 +1,4 @@
-Ajax
-
-
+# Ajax
 
 # 一、什么是Ajax
 
